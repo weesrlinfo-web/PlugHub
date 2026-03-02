@@ -1,0 +1,28 @@
+[
+  {
+    "id": "venezia-bacaro",
+    "nome": "Esempio Venezia",
+    "lat": 45.438,
+    "lng": 12.3358,
+    "indirizzo": "Campo San Polo, Venezia VE, Italia",
+    "orari": "11:00 – 23:00",
+    "tariffa": "1€ / 30 min",
+    "pagamento": "Carta, App",
+    "powerbank_disponibili": 4,
+    "photoUrl": "",
+    "place_id": ""
+  },
+  {
+    "id": "milano-duomo",
+    "nome": "Esempio Milano",
+    "lat": 45.4642,
+    "lng": 9.19,
+    "indirizzo": "Piazza del Duomo, Milano MI, Italia",
+    "orari": "08:00 – 20:00",
+    "tariffa": "1€ / 30 min",
+    "pagamento": "Carta, App",
+    "powerbank_disponibili": 8,
+    "photoUrl": "",
+    "place_id": ""
+  }
+]
